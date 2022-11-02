@@ -2,6 +2,9 @@
   "name": "scores-backend",
   "version": "1.0.0",
   "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
   "repository": "https://github.com/MadCoderme/scores-demo",
   "author": "MadCoderme",
   "license": "MIT"
